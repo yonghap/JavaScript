@@ -9,5 +9,5 @@
 
 ## :sun_with_face: JavaScript
 
-## :zap: VueJS
+## :zap: VueJS  
 
