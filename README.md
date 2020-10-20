@@ -9,5 +9,8 @@
 
 ## :sun_with_face: JavaScript
 
+[데이터타입](https://github.com/yonghap/FrontEnd-Study/blob/main/posts/js/01.datatype.md)
+
+
 ## :zap: VueJS  
 
