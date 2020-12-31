@@ -5,6 +5,8 @@
 
 ## :page_facing_up: HTML
 
+* [시멘틱 태그 (Semantic Tag)](https://github.com/yonghap/FrontEnd-Study/blob/main/posts/html/01.semantic.md)
+
 ## :art: CSS
 
 ## :sun_with_face: JavaScript
