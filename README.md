@@ -18,4 +18,4 @@
 
 1. [Numbers](https://github.com/yonghap/JavaScript/blob/main/posts/js/05.numbers.md)
 2. [Strings](https://github.com/yonghap/JavaScript/blob/main/posts/js/06.strings.md)
-
+3. [Dates](https://github.com/yonghap/JavaScript/blob/main/posts/js/07.dates.md)
