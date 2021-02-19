@@ -12,10 +12,9 @@
 
 <br>
 
-## :sweat_drops: Methods
-
-### Numbers and Math
+## :sweat_drops: 자주 쓰는 메소드
 
 1. [Numbers](https://github.com/yonghap/JavaScript/blob/main/posts/js/05.numbers.md)
 2. [Strings](https://github.com/yonghap/JavaScript/blob/main/posts/js/06.strings.md)
 3. [Dates](https://github.com/yonghap/JavaScript/blob/main/posts/js/07.dates.md)
+4. [Arrays](https://github.com/yonghap/JavaScript/blob/main/posts/js/08.arrays.md)
