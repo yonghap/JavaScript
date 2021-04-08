@@ -1,7 +1,7 @@
 # Promise
 
 비동기 처리에 사용되는 객체입니다.<br>
-비동기는 특정 코드의 실행이 완료될 때까지 기다리지 않고 다음 코드를 먼저 수행하는 자바스크립트의 특성입니다.
+비동기는 특정 코드의 실행이 완료될 때까지 기다리지 않고 다음 코드를 먼저 수행하는 자바스크립트의 특성입니다. <br>
 이 비동기 객체의 실행에는 상태가 존재합니다.
 
 <br>
@@ -12,6 +12,8 @@
 > **rejected** : 약속이 지켜지지 못한 상태이다. <br>
 > **settled** : 약속이 어떤 결과든 완료된 상태이다.
  
+ <br>
+ <br>
 
 ## 1.Promise 기초
 
@@ -41,9 +43,11 @@ myPromise.then(function (result) {
 })
 ```
 
+<br><br>
+
 ## 2.여러개의 Promise
 
-promise1, promise2가 Promise 객체이므로 all 메소드 사용이 가능하다.
+promise1, promise2가 Promise 객체이므로 all 메소드 사용이 가능합니다.
 
 
 ```javascript
@@ -63,6 +67,9 @@ Promise.all([promise1, promise2]).then(function (result) {
     console.log('Completed', result); // ['1st Promise', '2nd Promise'] 
 })
 ```
+
+<br>
+<br>
 
 ## 3.바로 실행되는 Promise
 
