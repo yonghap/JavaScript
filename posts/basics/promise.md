@@ -15,7 +15,7 @@
  <br>
  <br>
 
-## 1.Promise 기초
+## 1. Promise 기초
 
 ```javascript
 function sum(a, b) {
@@ -45,7 +45,7 @@ myPromise.then(function (result) {
 
 <br><br>
 
-## 2.여러개의 Promise
+## 2. 여러개의 Promise
 
 promise1, promise2가 Promise 객체이므로 all 메소드 사용이 가능합니다.
 
@@ -71,7 +71,7 @@ Promise.all([promise1, promise2]).then(function (result) {
 <br>
 <br>
 
-## 3.바로 실행되는 Promise
+## 3. 바로 실행되는 Promise
 
 ```javascript
 var promise1 = new Promise(function (resolve, reject) {
