@@ -77,6 +77,21 @@ window.onload = function () {
 // 7
 ```
 
+```javascript
+(function IIEF_local() {
+    // private 변수
+    let foo;
+    let bar;
+})
+```
+
+```javascript
+let result = (function () {
+    // 리턴하는 IIEF
+    return 'Hello World';
+}());
+```
+
 ### 내부 함수
 
 함수 내부에 선언된 함수입니다.
