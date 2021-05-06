@@ -76,7 +76,7 @@ async function f3() {
 f3();
 ```
 
-async, await를 사용하면 promise.then().catch()를 사용할 수 없기 때문에 try catch 문을 사용합니다.
+async, await를 사용하면 promise.then().catch()를 사용할 수 없기 때문에 try catch 문을 사용합니다.<br>
 다만 아래의 예제를 사용하면 reject를 다룰 수 있습니다.
 
 <br>
