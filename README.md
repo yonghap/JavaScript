@@ -11,6 +11,7 @@
 5. [클로저 (Closures)](https://github.com/yonghap/JavaScript/blob/main/posts/basics/closures.md)
 6. [컨텍스트,스코프,호이스팅 (Context,Scope,Hoisting)](https://github.com/yonghap/JavaScript/blob/main/posts/basics/context.md)
 7. [Promise](https://github.com/yonghap/JavaScript/blob/main/posts/basics/promise.md)
+8. [async, await](https://github.com/yonghap/JavaScript/blob/main/posts/basics/asyncawait.md)
 
 
 <br>
