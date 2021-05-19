@@ -6,7 +6,6 @@
 기본 타입의 변수를 다른 변수에 할당하면 원시값이 복사되어 전달됩니다.
 
 <br>
-<br>
 
 ## 1. 기본(원시 타입)
 
@@ -49,7 +48,6 @@ var emptyVar;
 var myPrivateMethod = Symbol();
 ```
 
-<br>
 <br>
 
 ## 2. 참조 타입
@@ -102,7 +100,6 @@ Array.prototype.push.apply(obj, ['bar']);
 // { '1' : 'bar', name : 'foo'
 ```
 
-<br>
 <br>
 
 ###### 참고자료
