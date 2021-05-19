@@ -3,7 +3,6 @@
 똑같을 명령을 일정 횟수만큼 실행합니다.
 
 <br>
-<br>
 
 ## 1. For
 
@@ -14,8 +13,6 @@ for (var i =0; i < 10; i++) {
 ````
 
 <br>
-<br>
-
 
 ## 2. For in  (Object)
 
@@ -33,7 +30,6 @@ for (let i in students) {
 ```
 
 <br>
-<br>
 
 ## 3. For in (Array)
 
@@ -46,7 +42,6 @@ for (let i in fruits) {
 ```
 
 <br>
-<br>
 
 ## 4. For of (ES6)
 
@@ -58,7 +53,6 @@ for (let i of fruits) {
 }
 ```
 
-<br>
 <br>
 
 ## 5. forEach
@@ -73,7 +67,6 @@ fruits.forEach((item, index) => {
 ```
 
 <br>
-<br>
 
 ## 6. While
 
@@ -87,7 +80,6 @@ while (i < 10) {
 ```
 
 <br>
-<br>
 
 ## 7. Do While
 
@@ -100,7 +92,6 @@ while (i < 10) {
 }
 ```
 
-<br>
 <br>
 
 ## 8. break, continue
@@ -123,7 +114,6 @@ for (var i = 0; i < 10; i++) {
 }
 ```
 
-<br>
 <br>
 
 ###### 참고자료

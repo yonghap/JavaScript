@@ -5,14 +5,12 @@
 이 비동기 객체의 실행에는 상태가 존재합니다.
 
 <br>
-<br>
 
 > **pending** : 약속을 수행 전이다. <br>
 > **fulfilled** : 약속이 지켜진 상태이다. <br>
 > **rejected** : 약속이 지켜지지 못한 상태이다. <br>
 > **settled** : 약속이 어떤 결과든 완료된 상태이다.
  
- <br>
  <br>
 
 ## 1. Promise 기초
@@ -43,7 +41,7 @@ myPromise.then(function (result) {
 })
 ```
 
-<br><br>
+<br>
 
 ## 2. 여러개의 Promise
 
@@ -68,7 +66,6 @@ Promise.all([promise1, promise2]).then(function (result) {
 })
 ```
 
-<br>
 <br>
 
 ## 3. 바로 실행되는 Promise

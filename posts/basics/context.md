@@ -1,7 +1,6 @@
 # 실행 컨텍스트, 스코프, 호이스팅 (Context, Scope, Hoisting)
 
 <br>
-<br>
 
 ## 1. 실행 컨텍스트
 
@@ -32,7 +31,6 @@ ExContext2();
 다른 함수 호출이 발생하면 새로운 컨텍스트가 만들어지고 실행되며,<br>
 종료되면 반환됩니다.
 
-<br>
 <br>
 
 ## 2. 스코프
@@ -86,7 +84,6 @@ console.log(hello); // Error
 ```
 
 <br>
-<br>
 
 ## 3. 호이스팅
 
@@ -119,7 +116,6 @@ const sayHello = function () {
 }
 ```
 
-<br>
 <br>
 
 ###### 참고자료

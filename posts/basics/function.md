@@ -1,7 +1,6 @@
 # 함수 (function)
 
 <br>
-<br>
 
 ## 1. 함수 선언 방식
 
@@ -46,7 +45,6 @@ var add = function (x, y) {
 var add = new Function('x', 'y', 'return x + y');
 ```
 
-<br>
 <br>
 
 ## 2. 함수의 형태
@@ -132,7 +130,6 @@ self(); // b
 ```
 
 <br>
-<br>
 
 ## 3. 함수도 객체이다
 
@@ -152,7 +149,6 @@ console.log(add.result); // 5
 console.log(add.status); // OK
 ```
 
-<br>
 <br>
 
 ###### 참고자료
