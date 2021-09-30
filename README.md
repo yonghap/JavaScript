@@ -2,7 +2,7 @@
 
 <br>
 
-## :fire: JavaScript Basics
+## :fire: JavaScript 
 
 1. [데이터 타입 (Data Types)](https://github.com/yonghap/JavaScript/blob/main/posts/basics/datatype.md)
 2. [조건문 (If)](https://github.com/yonghap/JavaScript/blob/main/posts/basics/if.md)
