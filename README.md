@@ -1,5 +1,6 @@
 # JavaScript
 
+자바스크립트의 기초 학습입니다.
 <br>
 
 ## :fire: JavaScript 
